@@ -1,4 +1,4 @@
-#[Link to the live app!](https://tst11.github.io/quiz-game-build/)
+# [Link to the live app!](https://tst11.github.io/quiz-game-build/)
 
 # mini-app-my
 
